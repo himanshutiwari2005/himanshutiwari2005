@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @himanshutiwari2005
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on any ML projects
-- 📫 How to reach me. Reach me on email- himanshutiwari10112005@gmail.com
+# Hi there 👋
 
-<!---
-himanshutiwari2005/himanshutiwari2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a dedicated student and aspiring Machine Learning Engineer with a special focus on Natural Language Processing (NLP) and analytical data models. My expertise spans popular ML frameworks such as **TensorFlow**, **Keras**, **Scikit-learn**, **NumPy**, **Pandas**, and **Matplotlib**.
+
+Among my projects, [@VBsaini/SignIt](https://github.com/VBsaini/SignIt) stands out as a personal favorite, reflecting my passion for innovative solutions in machine learning.
+
+🏆 **Achievement:**  
+- Achieved **4th rank** at Monad Blitz New Delhi
+
+🌱 **What I'm focusing on:**  
+- NLP techniques
+- Analytical data models
+- Applying ML to real-world challenges
+
+📫 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/himanshu-tiwari-152565317/)
+- [Twitter](https://x.com/Himanshutwtt)
+
+I am continuously learning and seeking new opportunities to apply ML techniques to solve challenging problems.
+
+---
